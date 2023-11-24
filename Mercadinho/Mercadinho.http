@@ -1,0 +1,6 @@
+@Mercadinho_HostAddress = http://localhost:5144
+
+GET {{Mercadinho_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
